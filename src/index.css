@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+div {
+  box-sizing: border-box;
+}
+li {
+  box-sizing: border-box;
+}
